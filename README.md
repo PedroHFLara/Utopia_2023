@@ -4,7 +4,7 @@
 
 # Sobre 
 
-Vamos desenvolver um sistema para ter o controle de estoque e realizar vendas da empresa Utopia que produz mochilas, estojos e lancheiras escolares de varios modelos e tamanhos. Pensando em inovar e poder aumentar a produção da empresa, gerando relátorios para maior controle da empresa. 
+Vamos desenvolver um software com o intuito de melhorar o controle de estoque e realizar as vendas da empresa Utopia que produz mochilas, estojos e lancheiras escolares de varios modelos e tamanhos. Pensando em inovar e poder aumentar a produção da empresa, gerando relátorios para maior controle da empresa.
 
 # Índice/Sumário
 
