@@ -10,15 +10,10 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
-
-# Requisitos Funcionais 
-
-.............................................................
 
 # Contribuição
 
