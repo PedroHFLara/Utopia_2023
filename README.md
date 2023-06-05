@@ -30,7 +30,6 @@ para nós.
 * https://github.com/PedroHFLara
 * https://github.com/ArturPassosMoreira
 * https://github.com/BernardoLCosta
-* https://github.com/VictorMCosta
 
 # Licença
 
