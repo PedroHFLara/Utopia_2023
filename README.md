@@ -39,6 +39,10 @@ Nível de Influência: 1 – Alto | 2 – Médio | 3 – Baixo
 
 2 -Time de desenvolvedores: Responsável pela criação e suporte do software.
 
+# Padrão do Projeto
+
+![image](https://github.com/PedroHFLara/Utopia_2023/assets/103151820/03fee67e-2971-4639-a2f8-3e202aa28a40.png)
+
 # Tecnica de Levantamento de Requisitos
 
 Técnica de Etnografia (Observação): Escolhemos esta técnica pelo simples fato de poder estar observando o dia – a – dia de todos os funcionários da empresa e as ações que o gerente realiza. Para assim verificarmos e entrarmos em acordo com ambas as partes onde decidimos quais serão os requisitos funcionais e não-funcionais do software.
