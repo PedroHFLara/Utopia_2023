@@ -15,7 +15,6 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 * [Etapas](#etapas)
 * [Produto Final](#produto-final)
 * [Contribuição](#contribuição)
-* [Tecnologias](#tecnologias)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
@@ -38,10 +37,6 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) 
 para nós.
-
-# Tecnologias
-
-
 
 # Autores
 
