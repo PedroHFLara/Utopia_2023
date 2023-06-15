@@ -5,7 +5,9 @@ Técnica de Etnografia (Observação): Escolhemos esta técnica pelo simples fat
 # Requisitos Funcionais 
 
 RF001 - O software deve cadastrar o usuário.
+
 RF002 - O software deve logar o usuário.
+
 RF003 - O software deve cadastrar fornecedor.
 RF004 - O software deve cadastrar matéria-prima.
 RF005 - O software deve cadastrar estoque.
