@@ -8,7 +8,7 @@ A Utopia é uma loja/Empresa Física com mais de 20 anos nesse ramo, e agora ent
 
 Vamos desenvolver um software com o intuito de melhorar o controle de estoque e realizar as vendas da empresa que produz mochilas, estojos e lancheiras escolares de varios modelos e tamanhos, pensando em inovar e poder aumentar a produção da empresa.
 
-# Índice/Sumário
+#                      Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
@@ -19,7 +19,7 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-# Etapas 
+#                          Etapas 
 
 # Papéis Scrum do Projeto
 
