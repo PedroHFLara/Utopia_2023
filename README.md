@@ -4,6 +4,8 @@
 
 # Sobre 
 
+A UTOPIA é uma empresa com mais de 20 anos no ramo de fabricação de produtos escolares como mochilas, estojos e lancheiras de diversos tamanhos e modelos.
+
 Vamos desenvolver um software com o intuito de melhorar o controle de estoque e realizar as vendas da empresa Utopia que produz mochilas, estojos e lancheiras escolares de varios modelos e tamanhos. Pensando em inovar e poder aumentar a produção da empresa, gerando relátorios para maior controle da empresa.
 
 # Índice/Sumário
