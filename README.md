@@ -77,6 +77,9 @@ RNF004 - Software deverá ser desenvolvido na linguagem Java.
 
 RNF005 - Software deverá se comunicar com o SQL Server. 
 
+# Backlog do Projeto
+
+![image](https://github.com/PedroHFLara/Utopia_2023/assets/103151820/5ec6b01a-37bf-4a14-96b4-f53ebe674b74.png)
 
 
 # Produto Final
