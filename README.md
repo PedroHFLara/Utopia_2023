@@ -22,11 +22,17 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 
 # Etapas 
 
+* [Backlog do Projeto](#backlogdoprojeto.md)
+* [Padrão do Projeto](#padraodoprojeto.md)
+* [Papeis Scrum](#papeisscrum.md)
+* [Requisitos](#requisitos.md)
 
 
 # Produto Final
 
-
+* [Apresentação do Produto Final]
+* [Prototipo de Telas]
+* [Slide Final]
 
 # Contribuição
 
