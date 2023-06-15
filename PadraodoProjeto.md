@@ -1,2 +1,0 @@
-# Padrão do Projeto
-
