@@ -12,14 +12,14 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Etapas](#etapas)
+* [Processos](#processos)
 * [Produto Final](#produto-final)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-# Etapas 
+# Processos
 
 --------------------------------------------------------------------------------------------------------
 
