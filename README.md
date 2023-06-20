@@ -27,9 +27,9 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 
 Product Owner: Pedro Lara
 
-Scrum Master: Gerente da Utopia
+Scrum Master: Artur Passos
 
-Dev. Team: Artur Passos e Bernardo Costa
+Desenvoldedor: Bernardo Costa
 
 --------------------------------------------------------------------------------------------------------
 
