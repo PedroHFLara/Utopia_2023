@@ -102,7 +102,7 @@ RNF005 - Software deverá se comunicar com o SQL Server.
 # Produto Final
 
 * [Apresentação do Produto Final]
-* [Prototipo de Telas](https://rossettibr-my.sharepoint.com/:v:/g/personal/pedro_lara_rossetti_com_br/EfAOhR65_oVEuYTLQz-1DaEBONN2S3LntjB7RDn3py-gwQ?e=TJ39z6)
+* [Prototipo de Telas](https://animaedu-my.sharepoint.com/:v:/r/personal/622122292_ulife_com_br/Documents/Utopia_PrototipodeTelas.mp4?csf=1&web=1&e=qEQoAy)
 * [Slide Final](./Utopia.pdf)
 
 # Contribuição
