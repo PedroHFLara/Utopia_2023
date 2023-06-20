@@ -16,7 +16,6 @@ Vamos desenvolver um software com o intuito de melhorar o controle de estoque e 
 * [Produto Final](#produto-final)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
-* [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
 # Processos
@@ -115,10 +114,6 @@ para nós.
 * https://github.com/PedroHFLara
 * https://github.com/ArturPassosMoreira
 * https://github.com/BernardoLCosta
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
