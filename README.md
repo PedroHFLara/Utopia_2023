@@ -40,7 +40,7 @@ Nível de Influência: 1 – Alto | 2 – Médio | 3 – Baixo
 
 1 - Funcionários da Utopia: Usuários responsáveis por alimentar o software com as informações.
 
-2 -Time de desenvolvedores: Responsável pela criação e suporte do software.
+2 - Time de desenvolvedores: Responsável pela criação e suporte do software.
 
 --------------------------------------------------------------------------------------------------------
 
